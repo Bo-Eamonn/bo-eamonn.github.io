@@ -43,7 +43,7 @@
 }
 .button {
     align-self: center;
-    background-color: #e6f3ff;
+    background-color: #68aae4;
     width: 200px;
     height: 50px;
     border: 1.5px solid #339cff;
@@ -63,6 +63,6 @@
 }
 
 .button:hover {
-    background-color: #99ceff;
+    background-color: #0084ff;
     cursor: pointer;
 }
