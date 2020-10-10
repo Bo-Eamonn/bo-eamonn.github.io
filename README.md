@@ -1,4 +1,17 @@
-#Interactieve elementen.
+# Mc Donalds bestel paneel
+
+Voor het van interaction design moeten we een element van het mcdonalds bestel panneel namaken in html/css/javascript
+
+## Vue.js verder werken
+
+Van af woensdag 07-10-20 moeten wij dit project omzetten tot een vue.js web-app
+
+* to do &amp;
+- vue.js framework toevoegen
+
+
+# onder genoemd is een tussen opdracht
+## Interactieve elementen.
 
 Welke interactieve elementen zitten er in de bestelpaal van de McDonalds?
 
@@ -19,9 +32,4 @@ Wat mist er qua interactief element aan de bestelpaal van de McDonalds?
 - De feedback
 - Niet alles want je normaal kan vragen bij het bestellen, is beschikbaar bij de bestelpaal.
 
-# Vue.js verder werken
 
-Van af woensdag 07-10-20 moeten wij dit project omzetten tot een vue.js web-app
-
-* to do &amp;
-- vue.js framework toevoegen
