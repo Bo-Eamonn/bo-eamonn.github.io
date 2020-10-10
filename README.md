@@ -6,12 +6,12 @@ Voor het van interaction design moeten we een element van het mcdonalds bestel p
 
 Van af woensdag 07-10-20 moeten wij dit project omzetten tot een vue.js web-app
 
-* to do &amp;
+**TO DO**
 - vue.js framework toevoegen
 
 
-# onder genoemd is een tussen opdracht
-## Interactieve elementen.
+##### onder genoemd is een tussen opdracht
+###### Interactieve elementen.
 
 Welke interactieve elementen zitten er in de bestelpaal van de McDonalds?
 
